@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>websocket-demo</name>
+	<name>websocket-chat</name>
 	<description>Spring Boot WebSocket Chat</description>
 
 	<parent>
